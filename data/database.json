@@ -1,0 +1,3204 @@
+{
+  "users": [
+    {
+      "id": "usr_root",
+      "username": "admin",
+      "passwordHash": "$2b$10$36mFQtgfnBQeKS0RWwvXAeusx6N7fUd4qn1tztbkWDnKm1.2mROKS",
+      "mustChangePassword": true,
+      "createdAt": "2026-10-22T13:38:28.735Z",
+      "updatedAt": "2026-10-22T13:38:28.735Z"
+    }
+  ],
+  "config": {
+    "baseUrl": "https://apihub.agnes-ai.com/v1",
+    "apiKey": "sk-vWM7RHG5n7bljBNi3GgHfygxqiKlUYrPWZLLSUByIGm4BiM9",
+    "textModel": "Agnes-2.5-flash",
+    "imageModel": "Agnes-Image-2.1-flash",
+    "updatedAt": "2026-10-22T13:39:20.458Z",
+    "updatedBy": "admin"
+  },
+  "records": [
+    {
+      "id": "rec_1792917793480_ka8oa",
+      "fileName": "test_survey.xlsx",
+      "fileSize": 42183,
+      "sheetCount": 22,
+      "sheetsAnalysis": [
+        {
+          "sheetName": "教基封面_完全中学",
+          "rowCount": 3,
+          "colCount": 6,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 1,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 6 列，列数适中且纵向行数丰富（共 3 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "目录",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1001_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1002_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1003_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1004_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1005_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1006_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1007_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1008_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1009_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1010_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1011_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1012_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1013_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1014_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1015_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1016_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1017_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1018_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1019_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1020_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        }
+      ],
+      "sheetsData": [
+        {
+          "sheetName": "教基封面_完全中学",
+          "headers": [
+            "学校（机构）",
+            "列 2",
+            "姓名",
+            "签字",
+            "单位负责人",
+            "列 6"
+          ],
+          "rows": [
+            [
+              "名称",
+              "颍上县联棚中学",
+              "单位负责人",
+              "高松",
+              "",
+              ""
+            ],
+            [
+              "代码",
+              "3434001315",
+              "统计负责人",
+              "吴其怀",
+              "",
+              ""
+            ],
+            [
+              "统一社会信用代码",
+              "12341226485979084R",
+              "填表人",
+              "刘家阳",
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "sheetName": "目录",
+          "headers": [
+            "序号",
+            "表号",
+            "表名"
+          ],
+          "rows": [
+            [
+              1,
+              "教基1001",
+              "基本情况"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1001_完全中学",
+          "headers": [
+            "指标1",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              100,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1002_完全中学",
+          "headers": [
+            "指标2",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              200,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1003_完全中学",
+          "headers": [
+            "指标3",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              300,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1004_完全中学",
+          "headers": [
+            "指标4",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              400,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1005_完全中学",
+          "headers": [
+            "指标5",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              500,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1006_完全中学",
+          "headers": [
+            "指标6",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              600,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1007_完全中学",
+          "headers": [
+            "指标7",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              700,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1008_完全中学",
+          "headers": [
+            "指标8",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              800,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1009_完全中学",
+          "headers": [
+            "指标9",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              900,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1010_完全中学",
+          "headers": [
+            "指标10",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1000,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1011_完全中学",
+          "headers": [
+            "指标11",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1100,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1012_完全中学",
+          "headers": [
+            "指标12",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1200,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1013_完全中学",
+          "headers": [
+            "指标13",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1300,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1014_完全中学",
+          "headers": [
+            "指标14",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1400,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1015_完全中学",
+          "headers": [
+            "指标15",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1500,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1016_完全中学",
+          "headers": [
+            "指标16",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1600,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1017_完全中学",
+          "headers": [
+            "指标17",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1700,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1018_完全中学",
+          "headers": [
+            "指标18",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1800,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1019_完全中学",
+          "headers": [
+            "指标19",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1900,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1020_完全中学",
+          "headers": [
+            "指标20",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              2000,
+              "正常"
+            ]
+          ]
+        }
+      ],
+      "status": "success",
+      "ip": "127.0.0.1",
+      "userAgent": "curl/7.88.1",
+      "createdAt": "2026-10-25T08:43:13.480Z"
+    },
+    {
+      "id": "rec_1792677282153_6j8wo",
+      "fileName": "education_survey_test.xlsx",
+      "fileSize": 42183,
+      "sheetCount": 22,
+      "sheetsAnalysis": [
+        {
+          "sheetName": "教基封面_完全中学",
+          "rowCount": 3,
+          "colCount": 6,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 1,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 6 列，列数适中且纵向行数丰富（共 3 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "目录",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1001_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1002_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1003_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1004_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1005_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1006_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1007_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1008_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1009_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1010_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1011_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1012_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1013_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1014_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1015_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1016_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1017_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1018_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1019_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1020_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        }
+      ],
+      "sheetsData": [
+        {
+          "sheetName": "教基封面_完全中学",
+          "headers": [
+            "学校（机构）",
+            "列 2",
+            "姓名",
+            "签字",
+            "单位负责人",
+            "列 6"
+          ],
+          "rows": [
+            [
+              "名称",
+              "颍上县联棚中学",
+              "单位负责人",
+              "高松",
+              "",
+              ""
+            ],
+            [
+              "代码",
+              "3434001315",
+              "统计负责人",
+              "吴其怀",
+              "",
+              ""
+            ],
+            [
+              "统一社会信用代码",
+              "12341226485979084R",
+              "填表人",
+              "刘家阳",
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "sheetName": "目录",
+          "headers": [
+            "序号",
+            "表号",
+            "表名"
+          ],
+          "rows": [
+            [
+              1,
+              "教基1001",
+              "基本情况"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1001_完全中学",
+          "headers": [
+            "指标1",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              100,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1002_完全中学",
+          "headers": [
+            "指标2",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              200,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1003_完全中学",
+          "headers": [
+            "指标3",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              300,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1004_完全中学",
+          "headers": [
+            "指标4",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              400,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1005_完全中学",
+          "headers": [
+            "指标5",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              500,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1006_完全中学",
+          "headers": [
+            "指标6",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              600,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1007_完全中学",
+          "headers": [
+            "指标7",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              700,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1008_完全中学",
+          "headers": [
+            "指标8",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              800,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1009_完全中学",
+          "headers": [
+            "指标9",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              900,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1010_完全中学",
+          "headers": [
+            "指标10",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1000,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1011_完全中学",
+          "headers": [
+            "指标11",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1100,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1012_完全中学",
+          "headers": [
+            "指标12",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1200,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1013_完全中学",
+          "headers": [
+            "指标13",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1300,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1014_完全中学",
+          "headers": [
+            "指标14",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1400,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1015_完全中学",
+          "headers": [
+            "指标15",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1500,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1016_完全中学",
+          "headers": [
+            "指标16",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1600,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1017_完全中学",
+          "headers": [
+            "指标17",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1700,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1018_完全中学",
+          "headers": [
+            "指标18",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1800,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1019_完全中学",
+          "headers": [
+            "指标19",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1900,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1020_完全中学",
+          "headers": [
+            "指标20",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              2000,
+              "正常"
+            ]
+          ]
+        }
+      ],
+      "status": "success",
+      "ip": "127.0.0.1",
+      "userAgent": "curl/7.88.1",
+      "createdAt": "2026-10-22T13:54:42.153Z"
+    },
+    {
+      "id": "rec_1792677067440_22cw7",
+      "fileName": "education_survey_test.xlsx",
+      "fileSize": 42183,
+      "sheetCount": 22,
+      "sheetsAnalysis": [
+        {
+          "sheetName": "教基封面_完全中学",
+          "rowCount": 7,
+          "colCount": 6,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 1,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 6 列，列数适中且纵向行数丰富（共 7 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "目录",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1001_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1002_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1003_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1004_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1005_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1006_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1007_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1008_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1009_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1010_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1011_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1012_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1013_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1014_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1015_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1016_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1017_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1018_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1019_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        },
+        {
+          "sheetName": "教基1020_完全中学",
+          "rowCount": 1,
+          "colCount": 3,
+          "orientation": "portrait",
+          "scale": 100,
+          "margins": "normal",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "该工作表包含 3 列，列数适中且纵向行数丰富（共 1 行），采用 A4 纵向排版视觉效果最佳，可容纳更多行内容。",
+          "summary": "A4纵向 · 缩放 100% · 单页紧凑"
+        }
+      ],
+      "sheetsData": [
+        {
+          "sheetName": "教基封面_完全中学",
+          "headers": [
+            "列 1",
+            "列 2",
+            "列 3",
+            "列 4",
+            "列 5",
+            "制定机关: 教育部"
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "批准机关: 国家统计局"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "批准文号: 国统制[2024]12号"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "有效期至: 2027年10月"
+            ],
+            [
+              "学校（机构）",
+              "",
+              "姓名",
+              "签字",
+              "单位负责人",
+              ""
+            ],
+            [
+              "名称",
+              "颍上县联棚中学",
+              "单位负责人",
+              "高松",
+              "",
+              ""
+            ],
+            [
+              "代码",
+              "3434001315",
+              "统计负责人",
+              "吴其怀",
+              "",
+              ""
+            ],
+            [
+              "统一社会信用代码",
+              "12341226485979084R",
+              "填表人",
+              "刘家阳",
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "sheetName": "目录",
+          "headers": [
+            "序号",
+            "表号",
+            "表名"
+          ],
+          "rows": [
+            [
+              1,
+              "教基1001",
+              "基本情况"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1001_完全中学",
+          "headers": [
+            "指标1",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              100,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1002_完全中学",
+          "headers": [
+            "指标2",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              200,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1003_完全中学",
+          "headers": [
+            "指标3",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              300,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1004_完全中学",
+          "headers": [
+            "指标4",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              400,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1005_完全中学",
+          "headers": [
+            "指标5",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              500,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1006_完全中学",
+          "headers": [
+            "指标6",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              600,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1007_完全中学",
+          "headers": [
+            "指标7",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              700,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1008_完全中学",
+          "headers": [
+            "指标8",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              800,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1009_完全中学",
+          "headers": [
+            "指标9",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              900,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1010_完全中学",
+          "headers": [
+            "指标10",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1000,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1011_完全中学",
+          "headers": [
+            "指标11",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1100,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1012_完全中学",
+          "headers": [
+            "指标12",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1200,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1013_完全中学",
+          "headers": [
+            "指标13",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1300,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1014_完全中学",
+          "headers": [
+            "指标14",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1400,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1015_完全中学",
+          "headers": [
+            "指标15",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1500,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1016_完全中学",
+          "headers": [
+            "指标16",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1600,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1017_完全中学",
+          "headers": [
+            "指标17",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1700,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1018_完全中学",
+          "headers": [
+            "指标18",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1800,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1019_完全中学",
+          "headers": [
+            "指标19",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              1900,
+              "正常"
+            ]
+          ]
+        },
+        {
+          "sheetName": "教基1020_完全中学",
+          "headers": [
+            "指标20",
+            "数值",
+            "备注"
+          ],
+          "rows": [
+            [
+              "项A",
+              2000,
+              "正常"
+            ]
+          ]
+        }
+      ],
+      "status": "success",
+      "ip": "127.0.0.1",
+      "userAgent": "curl/7.88.1",
+      "createdAt": "2026-10-22T13:51:07.440Z"
+    },
+    {
+      "id": "rec_1792676323652_2k0cf",
+      "fileName": "sample.xlsx",
+      "fileSize": 33855,
+      "sheetCount": 2,
+      "sheetsAnalysis": [
+        {
+          "sheetName": "财务年度预算宽表",
+          "rowCount": 7,
+          "colCount": 13,
+          "orientation": "landscape",
+          "scale": 75,
+          "margins": "narrow",
+          "fontSize": "small",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "检测到该工作表包含 13 列（预估总宽度约 107 字符），列数较多且信息密集，自动匹配 A4 横向排版，以确保所有数据列完整展示无截断。",
+          "summary": "A4横向 · 缩放 75% · 单页紧凑"
+        },
+        {
+          "sheetName": "团队员工考核明细",
+          "rowCount": 36,
+          "colCount": 8,
+          "orientation": "landscape",
+          "scale": 85,
+          "margins": "narrow",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": true,
+          "reason": "检测到该工作表包含 8 列（预估总宽度约 57 字符），列数较多且信息密集，自动匹配 A4 横向排版，以确保所有数据列完整展示无截断。",
+          "summary": "A4横向 · 缩放 85% · 跨页保留表头"
+        }
+      ],
+      "sheetsData": [
+        {
+          "sheetName": "财务年度预算宽表",
+          "headers": [
+            "科目编号",
+            "预算科目名称",
+            "责任中心",
+            "一季度",
+            "二季度",
+            "三季度",
+            "四季度",
+            "年度累计预算",
+            "实际执行额",
+            "预算达成率",
+            "同比增幅",
+            "风险评级",
+            "审计备注说明"
+          ],
+          "rows": [
+            [
+              "1001",
+              "研发基础设施支出",
+              "技术研发部",
+              "1,200,000",
+              "1,350,000",
+              "1,500,000",
+              "1,420,000",
+              "5,470,000",
+              "5,120,000",
+              "93.6%",
+              "+12.4%",
+              "低",
+              "符合预期进度"
+            ],
+            [
+              "1002",
+              "云服务器与网络算力",
+              "运维架构部",
+              "850,000",
+              "920,000",
+              "1,100,000",
+              "1,050,000",
+              "3,920,000",
+              "3,880,000",
+              "99.0%",
+              "+28.5%",
+              "中",
+              "AI模型训练增量"
+            ],
+            [
+              "1003",
+              "全球品牌数字化营销",
+              "市场增长中心",
+              "600,000",
+              "780,000",
+              "890,000",
+              "950,000",
+              "3,220,000",
+              "3,150,000",
+              "97.8%",
+              "+15.2%",
+              "低",
+              "Q4海外投放集中"
+            ],
+            [
+              "1004",
+              "核心人才薪酬与期权",
+              "人力资源部",
+              "3,500,000",
+              "3,650,000",
+              "3,800,000",
+              "3,900,000",
+              "14,850,000",
+              "14,600,000",
+              "98.3%",
+              "+8.7%",
+              "低",
+              "团队稳步扩张"
+            ],
+            [
+              "1005",
+              "办公职场租赁与能耗",
+              "行政综合中心",
+              "420,000",
+              "420,000",
+              "430,000",
+              "430,000",
+              "1,700,000",
+              "1,680,000",
+              "98.8%",
+              "+2.1%",
+              "低",
+              "租约固定期内"
+            ],
+            [
+              "1006",
+              "合规风控与法律法务",
+              "法务风控部",
+              "180,000",
+              "220,000",
+              "250,000",
+              "290,000",
+              "940,000",
+              "910,000",
+              "96.8%",
+              "+18.9%",
+              "中",
+              "跨国知识产权审查"
+            ],
+            [
+              "1007",
+              "客户成功与VIP服务支持",
+              "客户服务部",
+              "320,000",
+              "350,000",
+              "380,000",
+              "410,000",
+              "1,460,000",
+              "1,420,000",
+              "97.3%",
+              "+14.1%",
+              "低",
+              "大客户满意度99%"
+            ]
+          ]
+        },
+        {
+          "sheetName": "团队员工考核明细",
+          "headers": [
+            "工号",
+            "员工姓名",
+            "所在部门",
+            "职级",
+            "季度KPI",
+            "考核等级",
+            "主管评语",
+            "状态"
+          ],
+          "rows": [
+            [
+              "EMP1001",
+              "员工_B1",
+              "产品设计部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1002",
+              "员工_C2",
+              "市场商务部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1003",
+              "员工_D3",
+              "客户成功部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1004",
+              "员工_E4",
+              "运营支撑部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1005",
+              "员工_F5",
+              "技术研发部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1006",
+              "员工_G6",
+              "产品设计部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1007",
+              "员工_H7",
+              "市场商务部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1008",
+              "员工_I8",
+              "客户成功部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1009",
+              "员工_J9",
+              "运营支撑部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1010",
+              "员工_K10",
+              "技术研发部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1011",
+              "员工_L11",
+              "产品设计部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1012",
+              "员工_M12",
+              "市场商务部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1013",
+              "员工_N13",
+              "客户成功部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1014",
+              "员工_O14",
+              "运营支撑部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1015",
+              "员工_P15",
+              "技术研发部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1016",
+              "员工_Q16",
+              "产品设计部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1017",
+              "员工_R17",
+              "市场商务部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1018",
+              "员工_S18",
+              "客户成功部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1019",
+              "员工_T19",
+              "运营支撑部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1020",
+              "员工_U20",
+              "技术研发部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1021",
+              "员工_V21",
+              "产品设计部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1022",
+              "员工_W22",
+              "市场商务部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1023",
+              "员工_X23",
+              "客户成功部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1024",
+              "员工_Y24",
+              "运营支撑部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1025",
+              "员工_Z25",
+              "技术研发部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1026",
+              "员工_A26",
+              "产品设计部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1027",
+              "员工_B27",
+              "市场商务部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1028",
+              "员工_C28",
+              "客户成功部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1029",
+              "员工_D29",
+              "运营支撑部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1030",
+              "员工_E30",
+              "技术研发部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1031",
+              "员工_F31",
+              "产品设计部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1032",
+              "员工_G32",
+              "市场商务部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1033",
+              "员工_H33",
+              "客户成功部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1034",
+              "员工_I34",
+              "运营支撑部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1035",
+              "员工_J35",
+              "技术研发部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1036",
+              "员工_K36",
+              "产品设计部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ]
+          ]
+        }
+      ],
+      "status": "success",
+      "ip": "127.0.0.1",
+      "userAgent": "curl/7.88.1",
+      "createdAt": "2026-10-22T13:38:43.653Z"
+    },
+    {
+      "id": "rec_1792676315913_i5e6c",
+      "fileName": "sample.xlsx",
+      "fileSize": 33855,
+      "sheetCount": 2,
+      "sheetsAnalysis": [
+        {
+          "sheetName": "财务年度预算宽表",
+          "rowCount": 7,
+          "colCount": 13,
+          "orientation": "landscape",
+          "scale": 75,
+          "margins": "narrow",
+          "fontSize": "small",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": false,
+          "reason": "检测到该工作表包含 13 列（预估总宽度约 107 字符），列数较多且信息密集，自动匹配 A4 横向排版，以确保所有数据列完整展示无截断。",
+          "summary": "A4横向 · 缩放 75% · 单页紧凑"
+        },
+        {
+          "sheetName": "团队员工考核明细",
+          "rowCount": 36,
+          "colCount": 8,
+          "orientation": "landscape",
+          "scale": 85,
+          "margins": "narrow",
+          "fontSize": "medium",
+          "headerRows": 1,
+          "titleRows": 0,
+          "repeatHeaders": true,
+          "reason": "检测到该工作表包含 8 列（预估总宽度约 57 字符），列数较多且信息密集，自动匹配 A4 横向排版，以确保所有数据列完整展示无截断。",
+          "summary": "A4横向 · 缩放 85% · 跨页保留表头"
+        }
+      ],
+      "sheetsData": [
+        {
+          "sheetName": "财务年度预算宽表",
+          "headers": [
+            "科目编号",
+            "预算科目名称",
+            "责任中心",
+            "一季度",
+            "二季度",
+            "三季度",
+            "四季度",
+            "年度累计预算",
+            "实际执行额",
+            "预算达成率",
+            "同比增幅",
+            "风险评级",
+            "审计备注说明"
+          ],
+          "rows": [
+            [
+              "1001",
+              "研发基础设施支出",
+              "技术研发部",
+              "1,200,000",
+              "1,350,000",
+              "1,500,000",
+              "1,420,000",
+              "5,470,000",
+              "5,120,000",
+              "93.6%",
+              "+12.4%",
+              "低",
+              "符合预期进度"
+            ],
+            [
+              "1002",
+              "云服务器与网络算力",
+              "运维架构部",
+              "850,000",
+              "920,000",
+              "1,100,000",
+              "1,050,000",
+              "3,920,000",
+              "3,880,000",
+              "99.0%",
+              "+28.5%",
+              "中",
+              "AI模型训练增量"
+            ],
+            [
+              "1003",
+              "全球品牌数字化营销",
+              "市场增长中心",
+              "600,000",
+              "780,000",
+              "890,000",
+              "950,000",
+              "3,220,000",
+              "3,150,000",
+              "97.8%",
+              "+15.2%",
+              "低",
+              "Q4海外投放集中"
+            ],
+            [
+              "1004",
+              "核心人才薪酬与期权",
+              "人力资源部",
+              "3,500,000",
+              "3,650,000",
+              "3,800,000",
+              "3,900,000",
+              "14,850,000",
+              "14,600,000",
+              "98.3%",
+              "+8.7%",
+              "低",
+              "团队稳步扩张"
+            ],
+            [
+              "1005",
+              "办公职场租赁与能耗",
+              "行政综合中心",
+              "420,000",
+              "420,000",
+              "430,000",
+              "430,000",
+              "1,700,000",
+              "1,680,000",
+              "98.8%",
+              "+2.1%",
+              "低",
+              "租约固定期内"
+            ],
+            [
+              "1006",
+              "合规风控与法律法务",
+              "法务风控部",
+              "180,000",
+              "220,000",
+              "250,000",
+              "290,000",
+              "940,000",
+              "910,000",
+              "96.8%",
+              "+18.9%",
+              "中",
+              "跨国知识产权审查"
+            ],
+            [
+              "1007",
+              "客户成功与VIP服务支持",
+              "客户服务部",
+              "320,000",
+              "350,000",
+              "380,000",
+              "410,000",
+              "1,460,000",
+              "1,420,000",
+              "97.3%",
+              "+14.1%",
+              "低",
+              "大客户满意度99%"
+            ]
+          ]
+        },
+        {
+          "sheetName": "团队员工考核明细",
+          "headers": [
+            "工号",
+            "员工姓名",
+            "所在部门",
+            "职级",
+            "季度KPI",
+            "考核等级",
+            "主管评语",
+            "状态"
+          ],
+          "rows": [
+            [
+              "EMP1001",
+              "员工_B1",
+              "产品设计部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1002",
+              "员工_C2",
+              "市场商务部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1003",
+              "员工_D3",
+              "客户成功部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1004",
+              "员工_E4",
+              "运营支撑部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1005",
+              "员工_F5",
+              "技术研发部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1006",
+              "员工_G6",
+              "产品设计部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1007",
+              "员工_H7",
+              "市场商务部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1008",
+              "员工_I8",
+              "客户成功部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1009",
+              "员工_J9",
+              "运营支撑部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1010",
+              "员工_K10",
+              "技术研发部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1011",
+              "员工_L11",
+              "产品设计部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1012",
+              "员工_M12",
+              "市场商务部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1013",
+              "员工_N13",
+              "客户成功部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1014",
+              "员工_O14",
+              "运营支撑部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1015",
+              "员工_P15",
+              "技术研发部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1016",
+              "员工_Q16",
+              "产品设计部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1017",
+              "员工_R17",
+              "市场商务部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1018",
+              "员工_S18",
+              "客户成功部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1019",
+              "员工_T19",
+              "运营支撑部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1020",
+              "员工_U20",
+              "技术研发部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1021",
+              "员工_V21",
+              "产品设计部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1022",
+              "员工_W22",
+              "市场商务部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1023",
+              "员工_X23",
+              "客户成功部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1024",
+              "员工_Y24",
+              "运营支撑部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1025",
+              "员工_Z25",
+              "技术研发部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1026",
+              "员工_A26",
+              "产品设计部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1027",
+              "员工_B27",
+              "市场商务部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1028",
+              "员工_C28",
+              "客户成功部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1029",
+              "员工_D29",
+              "运营支撑部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1030",
+              "员工_E30",
+              "技术研发部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1031",
+              "员工_F31",
+              "产品设计部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1032",
+              "员工_G32",
+              "市场商务部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1033",
+              "员工_H33",
+              "客户成功部",
+              "P6",
+              "91.0",
+              "A (优秀)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ],
+            [
+              "EMP1034",
+              "员工_I34",
+              "运营支撑部",
+              "P7",
+              "94.0",
+              "B+ (良好)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1035",
+              "员工_J35",
+              "技术研发部",
+              "P8",
+              "97.0",
+              "B (合格)",
+              "工作踏实负责，协同配合顺畅",
+              "在职"
+            ],
+            [
+              "EMP1036",
+              "员工_K36",
+              "产品设计部",
+              "P5",
+              "88.0",
+              "S (卓越)",
+              "超额达成重点攻坚项目里程碑",
+              "在职"
+            ]
+          ]
+        }
+      ],
+      "status": "success",
+      "ip": "127.0.0.1",
+      "userAgent": "curl/7.88.1",
+      "createdAt": "2026-10-22T13:38:35.913Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log_1792676360458",
+      "action": "UPDATE_CONFIG",
+      "details": "更新大模型配置: Model=Agnes-2.5-flash, BaseUrl=https://apihub.agnes-ai.com/v1",
+      "ip": "127.0.0.1",
+      "createdAt": "2026-10-22T13:39:20.458Z"
+    },
+    {
+      "id": "log_1792676360435",
+      "action": "ADMIN_LOGIN",
+      "details": "管理员 admin 登录成功",
+      "ip": "127.0.0.1",
+      "createdAt": "2026-10-22T13:39:20.435Z"
+    },
+    {
+      "id": "log_1792676336216",
+      "action": "ADMIN_LOGIN",
+      "details": "管理员 admin 登录成功",
+      "ip": "127.0.0.1",
+      "createdAt": "2026-10-22T13:38:56.216Z"
+    },
+    {
+      "id": "log_1792676331500",
+      "action": "ADMIN_LOGIN",
+      "details": "管理员 admin 登录成功",
+      "ip": "127.0.0.1",
+      "createdAt": "2026-10-22T13:38:51.500Z"
+    },
+    {
+      "id": "log_1792676327406",
+      "action": "ADMIN_LOGIN",
+      "details": "管理员 admin 登录成功",
+      "ip": "127.0.0.1",
+      "createdAt": "2026-10-22T13:38:47.406Z"
+    },
+    {
+      "id": "log_init",
+      "action": "SYSTEM_INIT",
+      "details": "系统数据库初始化完成",
+      "ip": "127.0.0.1",
+      "createdAt": "2026-10-22T13:38:28.735Z"
+    }
+  ]
+}

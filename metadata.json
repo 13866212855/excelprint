@@ -1,0 +1,6 @@
+{
+  "name": "Excel智能打印与AI排版系统",
+  "description": "基于AI大模型的多工作表智能排版与一键打印工具，自动识别表格结构、判断A4横纵向、分页保留表头并导出高保真PDF",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
