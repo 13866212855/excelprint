@@ -126,7 +126,7 @@ export function initDB(): DatabaseSchema {
     ],
     config: {
       baseUrl: 'https://apihub.agnes-ai.com/v1',
-      apiKey: 'sk-vWM7RHG5n7bljBNi3GgHfygxqiKlUYrPWZLLSUByIGm4BiM9',
+      apiKey: 'sk-GUdpKQNIwwJSZQ5mYyrMnuCJBOwSbB73c2N6NcnNfk5LoKyq',
       textModel: 'Agnes-2.5-flash',
       imageModel: 'Agnes-Image-2.1-flash',
       updatedAt: new Date().toISOString(),
